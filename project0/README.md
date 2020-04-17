@@ -16,4 +16,8 @@ The coffee history page style in bootstrap by using 3 Bootstrap columns
 
 mobile-responsive @media query is applied in all pages to change background when you change window size 
 
+SASS variables applayed to change nopnav calss.
+
+SASS nesting applayed to change family font in index.html
+
 Web Programming with Python and JavaScript
