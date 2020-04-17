@@ -1,0 +1,15 @@
+.topnav a {
+  color: #b3a98c;
+}
+
+div h1 {
+  font-family: Goudy Old style;
+  font-size: 60px;
+  font-style: italic;
+}
+
+div p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+/*# sourceMappingURL=sass_style.css.map */
